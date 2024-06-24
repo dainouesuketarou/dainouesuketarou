@@ -1,10 +1,5 @@
 ## Hi there 👋
 
-<!--
-**dainouesuketarou/dainouesuketarou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 <p align="left">
   <a href="https://github.com/dainouesuketarou/dainouesuketarou/">
     <img src="https://komarev.com/ghpvc/?username=dainouesuketarou" alt="dainouesuketarou" />
@@ -25,6 +20,11 @@ Here are some ideas to get you started:
     <img height="20" src="https://qiita-badge.apiapi.app/s/dainouesuketarou/contributions.svg" />
   </a>
 </p>
+
+<!--
+**dainouesuketarou/dainouesuketarou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
