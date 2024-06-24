@@ -11,8 +11,6 @@
 
 ![](https://skillicons.dev/icons?i=html,css,js,typescript,React,python,django,postgres)
 
-![](https://github-readme-stats.vercel.app/api/top-langs?username=dainouesuketarou)
-
 ## Trophy
 ![trophy](https://github-profile-trophy.vercel.app/?username=dainouesuketarou&theme=gruvbox)
 
