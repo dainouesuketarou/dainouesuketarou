@@ -1,4 +1,16 @@
-## Hi there 👋
+# Hi there! 👋
+
+I'm a student at Gifu University, majoring in Engineering. Currently, I am focused on learning Python, TypeScript, and React to expand my programming skills and knowledge.
+
+## About Me
+
+- 🔭 I’m currently working on various projects to deepen my understanding of modern web development.
+- 🌱 I’m constantly learning new technologies and frameworks.
+- 🎥 In my free time, I enjoy watching movies.
+
+Feel free to connect with me or check out my repositories to see what I'm working on!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](your-linkedin-profile-url)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dainouesuketarou=default)
 
