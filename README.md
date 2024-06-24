@@ -10,8 +10,6 @@ I'm a student at Gifu University, majoring in Engineering. Currently, I am focus
 
 Feel free to connect with me or check out my repositories to see what I'm working on!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](your-linkedin-profile-url)
-
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dainouesuketarou=default)
 
 ## Stats
